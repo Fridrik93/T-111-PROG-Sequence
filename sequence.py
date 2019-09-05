@@ -1,3 +1,4 @@
+# https://github.com/Fridrik93/T-111-PROG-Sequence
 n = int(input("Enter the length of the sequence: ")) # Do not change this line
 n1 = 1
 n2 = 2
